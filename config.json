@@ -1,0 +1,8 @@
+{
+	"token":"",
+	"min":0.0001,
+	"max":0.001,
+	"time_s":3600,
+	"owner":"",
+	"owner_role":""
+}
